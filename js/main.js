@@ -19,7 +19,7 @@
     'apache',
     'squid',
     'django',
-    'ruby on rails',
+    'bootstrap',
     'bind',
     'samba',
     'postfix',
